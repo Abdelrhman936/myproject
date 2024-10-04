@@ -50,4 +50,4 @@ github = """@Abdelrhman936"""
 
 accounts_social_media = ["gmail", "facebook", "instgram", "twitter", "tiktik", "youtube", "github"]
 
-details = ["message", "bio" , "readme", "name", "username", "password", "number_phone", 'link_website', 'location', accounts_social_media]
+details = ["message", "bio" , "readme", "name", "username", "password", "number_phone", 'link_website', 'location', *accounts_social_media]
