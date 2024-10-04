@@ -3,23 +3,21 @@ Welcome Bro, Hello I Like Your Projects
 """
 
 bio = """
-My Name is Abdelrhman.
-I beginning in programming.
-I have 12 years.
-I have python programming language.
+My Name is <your_name>.
+I <your_level> in programming.
+I have <your_age> years.
+I have <programming_language/s> programming language/s.
 Thanks and Goodbye.
 """
 
 name = """
-Abdelrhman Elkomey
+<your_name>
 """
 
 username = """
-@abdelrhmanelkomey
+<your_username>
 """
 
 location = """
-egypt, cairo, nasr city
+<your_location>
 """
-
-my_details = [message, bio, name, username, location]
